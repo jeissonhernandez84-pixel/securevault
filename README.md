@@ -141,8 +141,3 @@ Observacion: el video  evidencia el despliegue del proyecto en Windows y Linux.
 ## 8. Licencia
 
 Este proyecto usa licencia MIT. Ver LICENSE.
-# test2
-# test2
-# test2
-# test2
-# test2
